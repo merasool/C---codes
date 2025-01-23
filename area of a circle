@@ -1,0 +1,4 @@
+In this code we are finding area of a circle
+pi=3.14 which is constant value 
+and taking radius from the user 
+which is formula area=pi*r*r
