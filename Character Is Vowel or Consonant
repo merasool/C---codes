@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+    char vowels[]=['a','e','i','o','u'];
+    int g;
+    printf("enter letter = ");
+    scanf("%d",&g);
+    if(g==vowels){
+        printf("vowels");
+    }else{
+        printf("consonent");
+    }
+}
